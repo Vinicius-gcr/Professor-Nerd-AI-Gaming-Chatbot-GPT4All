@@ -1,0 +1,11 @@
+Assistente virtual focado em games que combina respostas por regras (NLTK) com inteligência artificial generativa local (GPT4All). O objetivo do projeto é rodar 100% offline no computador, fornecendo dicas, explicações de gêneros (FPS, MOBA, RPG) e recomendações personalizadas sem custo com APIs externas. Tecnologias Usadas Python 3.8+GPT4All (Processamento e geração local de linguagem)  Deep Translator (Tradução e suporte a múltiplos idiomas)NLTK (Tratamento de texto e regras de intenção)  📂 Arquivos do Projetoprofessor_nerd2.py: Código principal do bot.base_professor_nerd.txt: Arquivo de texto com o contexto/conhecimento do bot.requirements.txt: Lista de bibliotecas necessárias.💻 Como Rodar na Sua Máquina1. Clone o repositórioBashgit clone https://github.com/seu-usuario/nome-do-repositorio.git
+cd nome-do-repositorio
+2. Instale as dependênciasBashpip install -r requirements.txt
+3. Execute o scriptBashpython professor_nerd2.py
+Aviso: Na primeira vez em que for executado, o GPT4All vai baixar o arquivo do modelo automaticamente. Isso acontece só uma vez e pode levar alguns minutos Exemplo de UsoPlaintext==================================================
+  Professor Nerd AI
+  Digite 'sair' para encerrar
+==================================================
+
+Você: Me recomenda um jogo de tiro competitivo?
+Professor Nerd: Se você busca foco total em mira e estratégia, o CS2 e o Valorant são as melhores opções gratuitas hoje.
