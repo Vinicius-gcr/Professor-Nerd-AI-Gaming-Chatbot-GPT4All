@@ -1,0 +1,83 @@
+BASE DE CONHECIMENTO - PROFESSOR NERD
+
+O Professor Nerd é um chatbot temático sobre jogos digitais. Ele conversa com o usuário, explica gêneros de jogos, recomenda títulos e compara jogos conhecidos.
+
+FUNÇÕES DO PROFESSOR NERD
+- Recomendar jogos para iniciantes.
+- Recomendar jogos para jogadores experientes.
+- Explicar gêneros como FPS, RPG, MOBA, Battle Royale, mundo aberto, casual e competitivo.
+- Falar sobre jogos gratuitos e pagos.
+- Comparar jogos famosos.
+- Responder em vários idiomas com ajuda de tradução.
+- Manter uma conversa simples e coerente.
+
+GÊNEROS DE JOGOS
+
+FPS:
+FPS significa First-Person Shooter. São jogos de tiro em primeira pessoa. O jogador vê o mundo pelos olhos do personagem. Exemplos: Valorant, CS2, Call of Duty e Overwatch.
+
+MOBA:
+MOBA é um gênero estratégico em que duas equipes competem em um mapa. Cada jogador controla um personagem com habilidades únicas. O objetivo geralmente é destruir a base inimiga. Exemplos: League of Legends e Dota 2.
+
+RPG:
+RPG significa Role-Playing Game. O jogador assume o papel de um personagem, evolui habilidades, completa missões e participa de uma história. Exemplos: Elden Ring, The Witcher 3, Skyrim e Final Fantasy.
+
+BATTLE ROYALE:
+Battle Royale é um gênero em que muitos jogadores entram em um mapa e lutam até sobrar apenas um vencedor ou uma equipe vencedora. Exemplos: Fortnite, PUBG, Apex Legends e Free Fire.
+
+MUNDO ABERTO:
+Jogos de mundo aberto dão liberdade para explorar mapas grandes, fazer missões e escolher caminhos diferentes. Exemplos: GTA V, Red Dead Redemption 2, Minecraft e The Legend of Zelda: Breath of the Wild.
+
+JOGOS CASUAIS:
+Jogos casuais são mais tranquilos e fáceis de jogar sem muita pressão. Exemplos: Stardew Valley, Minecraft, Animal Crossing, Fall Guys e The Sims.
+
+JOGOS COMPETITIVOS:
+Jogos competitivos focam em habilidade, ranking, partidas contra outros jogadores e evolução constante. Exemplos: Valorant, CS2, League of Legends, Fortnite e Rocket League.
+
+RECOMENDAÇÕES
+
+Para iniciantes:
+Minecraft, Stardew Valley, Portal 2, Fall Guys e The Sims são boas opções porque possuem mecânicas acessíveis e permitem aprender aos poucos.
+
+Para jogadores experientes:
+Elden Ring, Dark Souls, Valorant, CS2, League of Legends e Hollow Knight são boas opções porque exigem habilidade, estratégia e paciência.
+
+Jogos gratuitos:
+Valorant, CS2, League of Legends, Fortnite, Rocket League, Apex Legends e Fall Guys são exemplos de jogos gratuitos populares.
+
+Jogos pagos:
+Minecraft, GTA V, Red Dead Redemption 2, Elden Ring, The Witcher 3 e Baldur's Gate 3 são exemplos de jogos pagos muito bem avaliados.
+
+JOGOS FAMOSOS
+
+Minecraft:
+Jogo de construção, sobrevivência e criatividade. Pode ser casual, educativo ou desafiador dependendo do modo de jogo.
+
+GTA V:
+Jogo de mundo aberto com campanha, exploração, direção, ação e modo online.
+
+Valorant:
+FPS competitivo com personagens que possuem habilidades especiais. Mistura mira, estratégia e trabalho em equipe.
+
+CS2:
+FPS competitivo direto, focado em mira, posicionamento, economia da partida e comunicação.
+
+League of Legends:
+MOBA competitivo com muitos campeões, rotas, objetivos, estratégia de equipe e partidas ranqueadas.
+
+Elden Ring:
+RPG de ação em mundo aberto, conhecido pela dificuldade, exploração e chefes desafiadores.
+
+Fortnite:
+Battle Royale com construção, eventos, skins, temporadas e atualizações frequentes.
+
+FIFA / EA SPORTS FC:
+Jogo de futebol competitivo e casual. Possui partidas rápidas, modo carreira, Ultimate Team, online e partidas locais.
+
+FLUXO DE CONVERSA PLANEJADO
+1. O chatbot cumprimenta o usuário.
+2. O chatbot explica que fala sobre jogos digitais.
+3. O chatbot pergunta se o usuário prefere jogos casuais, competitivos, gratuitos ou pagos.
+4. O chatbot recomenda jogos com base na preferência.
+5. O chatbot explica o gênero ou jogo citado.
+6. O chatbot mantém a conversa com uma pergunta curta.
