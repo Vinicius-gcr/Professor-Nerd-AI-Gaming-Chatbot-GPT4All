@@ -2,10 +2,4 @@ Assistente virtual focado em games que combina respostas por regras (NLTK) com i
 cd nome-do-repositorio
 2. Instale as dependênciasBashpip install -r requirements.txt
 3. Execute o scriptBashpython professor_nerd2.py
-Aviso: Na primeira vez em que for executado, o GPT4All vai baixar o arquivo do modelo automaticamente. Isso acontece só uma vez e pode levar alguns minutos Exemplo de UsoPlaintext==================================================
-  Professor Nerd AI
-  Digite 'sair' para encerrar
-==================================================
-
-Você: Me recomenda um jogo de tiro competitivo?
-Professor Nerd: Se você busca foco total em mira e estratégia, o CS2 e o Valorant são as melhores opções gratuitas hoje.
+Aviso: Na primeira vez em que for executado, o GPT4All vai baixar o arquivo do modelo automaticamente. Isso acontece só uma vez e pode levar alguns minutos.
